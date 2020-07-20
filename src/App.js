@@ -13,9 +13,8 @@ function App() {
         alt = "logo" / >
         <
         p >
-        I was changed!
-        <
-        /p> <
+        I was changed on the feature branch. / < /p>
+        p > <
         a className = "App-link"
         href = "https://reactjs.org"
         target = "_blank"
